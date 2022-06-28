@@ -1,0 +1,16 @@
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\bin\Debug\net5.0\DotNetTutorials.exe
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\bin\Debug\net5.0\DotNetTutorials.deps.json
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\bin\Debug\net5.0\DotNetTutorials.runtimeconfig.json
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\bin\Debug\net5.0\DotNetTutorials.runtimeconfig.dev.json
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\bin\Debug\net5.0\DotNetTutorials.dll
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\bin\Debug\net5.0\ref\DotNetTutorials.dll
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\bin\Debug\net5.0\DotNetTutorials.pdb
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\obj\Debug\net5.0\DotNetTutorials.csproj.AssemblyReference.cache
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\obj\Debug\net5.0\DotNetTutorials.GeneratedMSBuildEditorConfig.editorconfig
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\obj\Debug\net5.0\DotNetTutorials.AssemblyInfoInputs.cache
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\obj\Debug\net5.0\DotNetTutorials.AssemblyInfo.cs
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\obj\Debug\net5.0\DotNetTutorials.csproj.CoreCompileInputs.cache
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\obj\Debug\net5.0\DotNetTutorials.dll
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\obj\Debug\net5.0\ref\DotNetTutorials.dll
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\obj\Debug\net5.0\DotNetTutorials.pdb
+D:\My CODE Practices\MyCodeRepo\DotNetTutorials\DotNetTutorials\obj\Debug\net5.0\DotNetTutorials.genruntimeconfig.cache
